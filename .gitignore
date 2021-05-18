@@ -24,6 +24,6 @@ yarn-error.log*
 
 /public
 /src
-/README
+/README.md
 /package-lock.json
 /package.json
